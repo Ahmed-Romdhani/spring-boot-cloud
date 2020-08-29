@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: MARKET-DATA-SERVICE
+server:
+  servlet:
+    context-path: /market-data   
+  port: 9080
