@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: MARKET-DATA-SERVICE
+server:
+  servlet:
+    context-path: /market-data   
+  port: 9080
+#eureka:
+#  instance:
+#    appname:  MARKET-DATA-SERVICE
+#  client:
+#    service-url:
+#        default-zone: http://localhost:9081/STOCK-SDR/
+#              
+  
